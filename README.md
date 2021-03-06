@@ -1,4 +1,4 @@
-#COVID-19 TRACKER
+# COVID-19 TRACKER
 
 COVID-19 Tracker/Stats Application using Reactjs, Hooks, Material.UI, Chartjs.
 
