@@ -1,3 +1,7 @@
+#COVID-19 TRACKER
+
+COVID-19 Tracker/Stats Application using Reactjs, Hooks, Material.UI, Chartjs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
